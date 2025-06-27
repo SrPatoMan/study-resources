@@ -11,7 +11,7 @@
 [Detectify](https://blog.detectify.com/)   
 
 
-### YouTube Channels   
+#### YouTube Channels   
 
 [Intigriti](https://www.youtube.com/@intigriti/videos)   
 [YesWeHack](https://www.youtube.com/@yeswehack1337/videos)   
@@ -24,7 +24,7 @@
 [ChillingAndTalking](https://www.youtube.com/@ChillingAndTalking)   
 
 
-### BugBounty Podcasts
+#### BugBounty Podcasts
 
 [Critical Thinking](https://www.youtube.com/@criticalthinkingpodcast/videos)   
 [BugBountyReportsExplained (Podcast section)](https://www.youtube.com/watch?v=6mVMVLYKBYI&list=PLvxs_epf2X91Dn3pWeRxPQSV6SWvWqDE3)
