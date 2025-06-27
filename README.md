@@ -11,7 +11,7 @@
 [Detectify](https://blog.detectify.com/)   
 
 
-#### YouTube Channels   
+### YouTube Channels   
 
 [Intigriti](https://www.youtube.com/@intigriti/videos)   
 [YesWeHack](https://www.youtube.com/@yeswehack1337/videos)   
