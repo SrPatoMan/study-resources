@@ -9,7 +9,7 @@
 [Bugcrowd](https://www.bugcrowd.com/blog/category/hacker-resources/)   
 [Brutelogic (from WaybackMachine)](https://web.archive.org/web/20241124011741/https://brutelogic.com.br/blog/)   
 [Detectify](https://blog.detectify.com/)   
-
+[BishopFox](https://bishopfox.com/blog/technology)   
 
 ### YouTube Channels   
 
