@@ -10,6 +10,8 @@
 [Brutelogic (from WaybackMachine)](https://web.archive.org/web/20241124011741/https://brutelogic.com.br/blog/)   
 [Detectify](https://blog.detectify.com/)   
 [BishopFox](https://bishopfox.com/blog/technology)   
+[Snyk](https://snyk.io/blog/)   
+[PentesterLab](https://pentesterlab.com/blog/)   
 
 ### YouTube Channels   
 
